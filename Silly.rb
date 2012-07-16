@@ -6,4 +6,10 @@ gets
 
 
 asdfjökldsafökjasdfkasjdföj
+<<<<<<< HEAD
+=======
+
+
+sadf
+>>>>>>> How
 sdf
